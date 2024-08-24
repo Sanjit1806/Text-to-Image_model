@@ -1,6 +1,6 @@
 # Image to Text Generation
 
-Generating images from textual descriptions using 2 google pre-trained text embedding model.
+Generating images from textual descriptions using 2 google pre-trained text embedding models.
 
 ## Project Structure
 
