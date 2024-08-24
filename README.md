@@ -47,3 +47,6 @@ This project utilizes 2 pre-trained models  for image-to-text generation.
 - Google Universal Sentance Encoder trained with a deep averaging network (DAN) encoder (512-dim embedding vectors).
 - Google Feed-Forward Neural-Net Language Models with pre-built OOV (128-dim embedding vectors).
 
+## 🤝 Contributors
+- Developed by [github.com/Sanjit1806](https://github.com/Sanjit1806)
+
