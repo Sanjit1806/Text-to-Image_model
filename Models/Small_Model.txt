@@ -1,0 +1,6 @@
+Google Feed-Forward Neural-Net Language Models with pre-built OOV 
+(128-dim embedding vectors)
+
+https://tfhub.dev/google/nnlm-en-dim50/2
+
+

@@ -1,0 +1,4 @@
+Google Universal Sentance Encoder trained with a deep averaging network (DAN) encoder.
+(512-dim embedding vectors)
+
+https://tfhub.dev/google/universal-sentence-encoder/4
